@@ -19,3 +19,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+
+
+ 
+ [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default)]]
+ 
