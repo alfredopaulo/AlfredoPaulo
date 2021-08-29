@@ -30,5 +30,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
  
  ```zsh
->  Veja meus Repositoóios 👇
+>  Veja meus Repositórios 👇
 ```
