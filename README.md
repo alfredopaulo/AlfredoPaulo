@@ -27,7 +27,7 @@
 <h4 align="center">
 
 ![Discord](https://img.shields.io/badge/Alfredo%233397-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
-<a href="https://instagram.com/alfredopaulobarros"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/alfredopaulobarros"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
 <a href="alfredopaulo2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alfredo-paulo-72403619b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 
