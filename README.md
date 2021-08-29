@@ -25,6 +25,7 @@
 
  
  ### Spotify Playing 🎧
+ <h4 align="center">
  <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
  <h4 align="center">
  
