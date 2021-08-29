@@ -33,7 +33,6 @@
 <a href="https://www.linkedin.com/in/alfredo-paulo-72403619b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"  target="_blank"/></a>
 
  <h4 align="center">
- <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>  
  <h4 align="center">
  
 
