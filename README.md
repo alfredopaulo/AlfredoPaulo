@@ -4,9 +4,9 @@
 
 -  Meu nome é Alfredo Paulo !
 -  Atualmente  Estudante de Engenharia  de Software na UFAM 
--  Tecnico do curso FIC de Programador(a) Web do Campus do IF Goiano.
+-  Técnico do curso FIC de Programador(a) Web do Campus do IF Goiano.
 -  Sou Estudante apaixonado por programação 
--  Gosto de games Cs1.6 , Half life 1 e 2 e aguardando o 3 kkkkk! 
+-  Gosto de games CS1.6 , Half life 1 e 2 e aguardando o 3 ! 
 
 ---
 <h2 align="center">Ferramentas e linguagens</h2>
