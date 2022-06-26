@@ -43,8 +43,6 @@
  
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
-  
-  [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />] (https://ubuntu.com/download){:target="_blank"}
 
   
  ```zsh
