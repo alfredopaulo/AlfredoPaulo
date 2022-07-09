@@ -1,6 +1,6 @@
 # Alfredo Paulo
 
-## Fala Galera ! :metal:
+## Olá mundo ! :metal:
 
 -  Meu nome é Alfredo Paulo !
 -  Atualmente  Estudante de Engenharia  de Software na UFAM 
@@ -17,10 +17,7 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <a href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> </a> 
-<img src="https://img.shields.io/badge/-Kali-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
-
- 
  
 ---
  
