@@ -41,7 +41,7 @@
  <h4 align="center">
  
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=Novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
 
   
  ```zsh
