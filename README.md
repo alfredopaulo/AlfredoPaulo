@@ -40,8 +40,7 @@
  <h4 align="center">
  <h4 align="center">
  
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=Novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   
  ```zsh
