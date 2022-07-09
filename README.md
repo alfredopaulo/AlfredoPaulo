@@ -2,7 +2,6 @@
 
 ## Olá mundo ! :metal:
 
--  Meu nome é Alfredo Paulo !
 -  Atualmente  Estudante de Engenharia  de Software na UFAM 
 -  Técnico do curso FIC de Programador(a) Web do Campus do IF Goiano.
 -  Sou Estudante apaixonado por programação 
