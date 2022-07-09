@@ -8,7 +8,7 @@
 -  Gosto de games CS1.6 , Half life 1 e 2 e aguardando o 3 ! 
 
 ---
-<h2 align="center">Ferramentas e linguagens</h2>
+<h2 align="center">Ferramentas, linguagens e tecnologias</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
