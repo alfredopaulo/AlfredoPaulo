@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt = "oi">
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt = "oi">
 
 </p>
 
