@@ -17,11 +17,6 @@
 <a href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> </a> 
  
 
-<p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
 
 
 <p align="center">
@@ -29,6 +24,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt = "oi">
 
 </p>
+
+
 ---
  
 <h2 align="center">Fale comigo</h2>
