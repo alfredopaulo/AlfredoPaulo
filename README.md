@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 <a href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> </a> 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
