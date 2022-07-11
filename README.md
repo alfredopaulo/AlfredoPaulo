@@ -4,8 +4,8 @@
 
 -  Atualmente  Estudante de Engenharia  de Software na UFAM 
 -  Técnico do curso FIC de Programador(a) Web do Campus do IF Goiano.
--  Sou Estudante apaixonado por programação 
--  Gosto de games CS1.6 , Half life 1 e 2 e aguardando o 3 ! 
+-  Estudante apaixonado por programação 
+-  Gosto de games CS 1.6 , Half life 1 e 2 e aguardando o 3 , Valorant, Fortnite ! 
 
 ---
 <h2 align="center">Ferramentas, linguagens e tecnologias</h2>
