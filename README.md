@@ -24,6 +24,11 @@
 </p>
 
 
+<p align="center">
+
+<img width="538em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark">
+
+</p>
 ---
  
 <h2 align="center">Fale comigo</h2>
