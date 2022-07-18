@@ -7,6 +7,9 @@
 -  Estudante apaixonado por programação 
 -  Gosto de games CS 1.6 , Half life 1 e 2 e aguardando o 3 , Valorant, Fortnite ! 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alfredo+Paulo;Eu+Tenho+20+Anos;Sou+Programador+FrontEnd)](https://git.io/typing-svg)
+
+
 ---
 <h2 align="center">Tecnologias</h2>
 <p align="center">
