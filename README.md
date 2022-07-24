@@ -1,5 +1,4 @@
-# Alfredo Paulo
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alfredo+Paulo;Eu+Tenho+19+Anos;Sou+Programador+BackEnd)](https://git.io/typing-svg)
 ## Olá mundo ! :metal:
 
 -  Atualmente  Estudante de Engenharia  de Software na UFAM 
@@ -7,7 +6,7 @@
 -  Estudante apaixonado por programação 
 -  Gosto de games CS 1.6 , Half life 1 e 2 e aguardando o 3 , Valorant, Fortnite ! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alfredo+Paulo;Eu+Tenho+19+Anos;Sou+Programador+BackEnd)](https://git.io/typing-svg)
+
 
 
 ---
@@ -33,6 +32,7 @@
    <img align="center" alt="Alfredo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Alfredo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Alfredo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="Alfredo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
  
 
