@@ -21,7 +21,8 @@
 
 
 ---
-
+<h2 align="center">Tecnologias</h2>
+<p align="center">
 
   <img align="center" alt="Alfredo-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="Alfredo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />   
