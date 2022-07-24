@@ -1,10 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alfredo+Paulo;Eu+Tenho+19+Anos;Sou+Programador+BackEnd)](https://git.io/typing-svg)
-## Olá mundo ! :metal:
+
+---
 
 -  Atualmente  Estudante de Engenharia  de Software na UFAM 
 -  Técnico do curso FIC de Programador(a) Web do Campus do IF Goiano.
 -  Estudante apaixonado por programação 
 -  Gosto de games CS 1.6 , Half life 1 e 2 e aguardando o 3 , Valorant, Fortnite ! 
+
+<p align="center">
+
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt = "oi">
+
+
+
+<img width="500em" src= "https://github-readme-stats.vercel.app/api?username=alfredoPaulo&show_icons=true&theme=radical" alt ="oi">
+
+</p>
+
 
 
 
