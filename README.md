@@ -7,28 +7,6 @@
 -  Estudante apaixonado por programação 
 -  Gosto de games CS 1.6 , Half life 1 e 2 e aguardando o 3 , Valorant, Fortnite ! 
 
-<p align="center">
-
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt = "oi">
-
-
-
-<img width="500em" src= "https://github-readme-stats.vercel.app/api?username=alfredoPaulo&show_icons=true&theme=radical" alt ="oi">
-
-</p>
-
-
-
-
-
----
-<h2 align="center">Tecnologias</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-<a href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> </a> 
 
 
 ---
