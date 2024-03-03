@@ -10,7 +10,7 @@
 
 
 ---
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnologias e Ferramentas</h2>
 <p align="center">
 
   <img align="center" alt="Alfredo-heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
