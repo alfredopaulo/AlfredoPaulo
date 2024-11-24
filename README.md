@@ -42,15 +42,14 @@
 <h4 align="center">
  
  
- <a href="https://discord.com/users/650143772969205804"> <img src="https://img.shields.io/badge/Alfredo%233397-5865F2?style=for-the-badge&logo=Discord&logoColor=white"  target="_blank"></a>
 <a href="https://instagram.com/alfredopaulobarros"><img src="https://img.shields.io/badge/Instagram-E4505F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
 <a href="https://www.linkedin.com/in/alfredo-paulo-72403619b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"  target="_blank"/></a>
- <a href="https://t.me/suna_alf"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+<a href="https://t.me/suna_alf"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
  <h4 align="center">
  <h4 align="center">
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
 
   
  ```zsh
