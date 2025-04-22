@@ -1,56 +1,54 @@
+<h1 align="center">👨‍💻 Alfredo Paulo</h1>
+<p align="center">Engenheiro de Software pela UFAM · Técnico em Programação Web (IF Goiano)</p>
 
 ---
 
--  Engenheiro de Software - UFAM
--  Técnico do curso FIC de Programador(a) Web do Campus do IF Goiano
-
----
-<h2 align="center">Tecnologias e Ferramentas</h2>
-<p align="center">
-
-  <img align="center" alt="Alfredo-heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-  <img align="center" alt="Alfredo-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />   
-    <img align="center" alt="Alfredo-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
-   <img align="center" alt="Alfredo-Kotlin-" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-   <img align="center" alt="Alfredo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-   <img align="center" alt="Alfredo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Alfredo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Alfredo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Alfredo-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
- 
-
-
+<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
 <p align="center">
-
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt = "oi">
-
-
-
-<img width="400em" src= "https://github-readme-stats.vercel.app/api?username=alfredoPaulo&show_icons=true&theme=radical" alt ="oi">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoPaulo&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=alfredoPaulo&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
 
 ---
- 
-<h2 align="center">Fale comigo</h2>
-<h4 align="center">
- 
- 
-<a href="https://instagram.com/alfredopaulobarros"><img src="https://img.shields.io/badge/Instagram-E4505F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
-<a href="https://www.linkedin.com/in/alfredo-paulo-72403619b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"  target="_blank"/></a>
-<a href="https://t.me/suna_alf"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
- <h4 align="center">
- <h4 align="center">
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true)
+<h2 align="center">📫 Fale Comigo</h2>
 
-  
- ```zsh
->  Veja meus repositórios ! 👇
-```
+<p align="center">
+  <a href="https://instagram.com/alfredopaulobarros" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alfredo-paulo-72403619b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/suna_alf" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  </a>
+</p>
+
+```zsh
+> Veja meus repositórios abaixo! 👇
