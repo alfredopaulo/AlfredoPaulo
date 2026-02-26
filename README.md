@@ -56,6 +56,16 @@
 
 ---
 
+<h2 align="center">Now Playing</h2>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31upvmvfhf4tmkbq2fjhgqjddq3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alfredo-paulo-72403619b/">
     LinkedIn
