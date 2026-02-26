@@ -36,18 +36,6 @@
 
 ---
 
-<h2 align="center">Selected Work</h2>
-
-<p align="center">
-  Morphological Leaf Classification using Embedded SNN – WorldCIST 2026  
-  <br>
-  Neuromorphic Robotic Control – Under Review (IEEE)  
-  <br>
-  Multimodal Water Quality Monitoring – In Preparation
-</p>
-
----
-
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
