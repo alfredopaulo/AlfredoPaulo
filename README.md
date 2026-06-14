@@ -1,7 +1,7 @@
 <h1 align="center">Alfredo Barros</h1>
 
 <p align="center">
-  Master's Student at the Federal University of Amazonas — UFAM
+  Master's Student at the Federal University of Amazonas — UFAM/ICET
   <br>
   B.Sc. in Software Engineering from UFAM/ICET
   <br>
