@@ -3,7 +3,8 @@
 <p align="center">
   Master's Student at the Federal University of Amazonas — UFAM
   <br>
-  Research interests in Neuromorphic AI, Embedded Systems and Edge Computing
+  B.Sc. in Software Engineering from UFAM/ICET
+  <br>
 </p>
 
 ---
